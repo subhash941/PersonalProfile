@@ -1,0 +1,23 @@
+/*Background color */
+body {
+  background-color: #ffdab9;
+}
+/* Getting the dots as seperator */
+hr  {
+  border-style        : none;
+  border-top-style    : dotted;
+  border-top-color    : grey;
+  border-top-width    : 10px;
+  width               : 8%;
+}
+/*Image Re-sizing */
+img {
+  height              : 150px;
+}
+
+h1 {
+  color               : dimgrey;
+}
+h2 {
+  color               : dimgrey;
+}
